@@ -1,0 +1,21 @@
+ERROR   2021-08-09 12:42:57,841 [http-nio-8080-exec-1] controller.MainController  - java.lang.ArithmeticException: / by zero
+ERROR   2021-08-09 12:44:14,866 [http-nio-8080-exec-4] controller.MainController  - java.lang.NullPointerException
+ERROR   2021-08-09 11:49:44,126 [http-nio-8080-exec-36] dao.HistoryDao  - com.microsoft.sqlserver.jdbc.SQLServerException: Invalid object name 'BookingDetail'.
+ERROR   2021-08-10 20:50:50,137 [http-nio-8080-exec-19] nhultc.verifiemail.SendEmailActive  - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u21sm23225354pfh.163 - gsmtp
+
+ERROR   2021-08-11 07:24:32,999 [http-nio-8080-exec-17] nhultc.verifiemail.SendEmailActive  - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f15sm23443035pjt.3 - gsmtp
+
+ERROR   2021-08-11 07:31:17,263 [http-nio-8080-exec-18] nhultc.verifiemail.SendEmailActive  - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials bo14sm4244223pjb.1 - gsmtp
+
+ERROR   2021-08-11 07:33:05,312 [http-nio-8080-exec-24] nhultc.verifiemail.SendEmailActive  - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f5sm23789678pjo.23 - gsmtp
+
+ERROR   2021-08-11 07:34:23,320 [http-nio-8080-exec-28] nhultc.verifiemail.SendEmailActive  - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v15sm25432728pff.105 - gsmtp
+
+ERROR   2021-08-11 07:37:16,316 [http-nio-8080-exec-30] nhultc.verifiemail.SendEmailActive  - javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f5sm23795374pjo.23 - gsmtp
+
